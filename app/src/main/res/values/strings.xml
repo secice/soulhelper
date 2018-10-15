@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">soulhelper</string>
+    <string name="h1_help">如何使用?</string>
+    <string name="p1_usage">支持Xposed和VirtualXposed，Xposed直接安装此插件，然后启用插件，重启手机即可；VirtualXposed需要添加soul和此插件到VirtualXposed容器中，然后在VirtualXposed里面启用即可</string>
+    <string name="h1_support">协议</string>
+    <string name="p1_support">本系列程序只作学习交流使用，仅供个人研究之用，请勿用于商业及非法用途，如由此引起的相关法律法规责任，与我们无关！！！\n使用即代表同意此协议\n目前支持的版本为V3.0.16-18092102</string>
+    <string name="h1_source">源码</string>
+    <string name="p1_source">源码获取: https://github.com/smartdone/soulhelper \n你可以自由使用代码, 欢迎你贡献代码</string>
+    <string name="h1_contect">联系我们</string>
+    <string name="p1_connect">你可以通过QQ群联系我们，可以向我们反馈问题，如果使用人数多，我们会考虑解决</string>
+
 </resources>
